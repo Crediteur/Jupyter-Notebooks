@@ -1,0 +1,8 @@
+geodatasets==2023.3.0
+geopandas==0.13.2
+geopy==2.3.0
+matplotlib==3.7.1
+numpy==1.23.5
+pandas==2.0.2
+seaborn==0.12.2
+shapely==2.0.1
