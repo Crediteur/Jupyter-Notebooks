@@ -1,2 +1,2 @@
 # Jupyter Notebooks
- Various Data Science and Machine Learning notebooks go in here
+My collection of various Data Science and Machine Learning related notebooks
