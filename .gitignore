@@ -150,7 +150,7 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-Wine_Dataset_Analysis/CM3015_ML_Wine_Dataset_Analysis.ipynb
-Wine_Dataset_Analysis/CM3015_Midterm_Raw_Code.ipynb
-Star_Type_Classification/CM3005_Star_Classification.ipynb
-BeeSpotter_Contribution_Analysis/CM2015_BeeSpotter_Contribution_Analysis.ipynb
+Wine_Dataset_Analysis/*
+Star_Type_Classification/*
+BeeSpotter_Contribution_Analysis/*
+cifar10_Image_Classification/*
